@@ -1,4 +1,9 @@
 const projects = [
+  {
+    title: "Tip Calculator",
+    githubLink: "https://github.com/Dilmurod1982/tip-calc.git",
+    vercelLink: "https://tip-calc-gamma.vercel.app/",
+  },
     {
     title: "QR Code",
     githubLink: "https://github.com/Dilmurod1982/qr-code",
