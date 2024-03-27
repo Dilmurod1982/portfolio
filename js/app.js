@@ -1,5 +1,10 @@
 const projects = [
   {
+    title: "Castaway",
+    githubLink: "https://github.com/Dilmurod1982/castway.git",
+    vercelLink: "https://castaway-beige-six.vercel.app/",
+  },
+  {
     title: "background Video",
     githubLink: "https://github.com/Dilmurod1982/background-video.git",
     vercelLink: "https://background-video-eight.vercel.app/",
