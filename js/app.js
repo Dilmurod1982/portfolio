@@ -1,5 +1,10 @@
 const projects = [
   {
+    title: "Crowdfunding",
+    githubLink: "https://github.com/Dilmurod1982/crowdfounding.git",
+    vercelLink: "https://crowdfounding-smoky.vercel.app/",
+  },
+  {
     title: "Animation",
     githubLink: "https://github.com/Dilmurod1982/animation.git",
     vercelLink: "https://animation-beige-three.vercel.app/#",
