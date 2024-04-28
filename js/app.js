@@ -1,5 +1,10 @@
 const projects = [
   {
+    title: "Design solutions made easy",
+    githubLink: "https://github.com/Dilmurod1982/Design_solutions.git",
+    vercelLink: "https://design-solutions.vercel.app/",
+  },
+  {
     title: "MyTeam",
     githubLink: "https://github.com/Dilmurod1982/myteam.git",
     vercelLink: "https://myteam-wine.vercel.app/",
@@ -34,7 +39,7 @@ const projects = [
     githubLink: "https://github.com/Dilmurod1982/tip-calc.git",
     vercelLink: "https://tip-calc-gamma.vercel.app/",
   },
-    {
+  {
     title: "QR Code",
     githubLink: "https://github.com/Dilmurod1982/qr-code",
     vercelLink: "https://qr-code-omega-nine.vercel.app/",
@@ -56,7 +61,8 @@ const projects = [
   },
   {
     title: "Gabrielle Essence Eau De Parfum",
-    githubLink: "https://github.com/Dilmurod1982/Gabrielle-Essence-Eau-De-Parfum",
+    githubLink:
+      "https://github.com/Dilmurod1982/Gabrielle-Essence-Eau-De-Parfum",
     vercelLink: "https://gabrielle-essence-eau-de-parfum-seven.vercel.app/",
   },
   {
