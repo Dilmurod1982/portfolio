@@ -1,5 +1,10 @@
 const projects = [
   {
+    title: "Drums & Kits",
+    githubLink: "https://github.com/Dilmurod1982/5oy4darsuyishi.git",
+    vercelLink: "https://drumskits-dilmurods-projects-a9f9cdd1.vercel.app/",
+  },
+  {
     title: "Design solutions made easy",
     githubLink: "https://github.com/Dilmurod1982/Design_solutions.git",
     vercelLink: "https://design-solutions.vercel.app/",
