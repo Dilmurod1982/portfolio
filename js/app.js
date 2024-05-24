@@ -1,5 +1,9 @@
 const projects = [
   {
+    title: "Music Player",
+    githubLink: "https://github.com/Dilmurod1982/5oy5darsuyishi.git",
+  },
+  {
     title: "Drums & Kits",
     githubLink: "https://github.com/Dilmurod1982/5oy4darsuyishi.git",
     vercelLink: "https://drumskits-dilmurods-projects-a9f9cdd1.vercel.app/",
