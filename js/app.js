@@ -1,5 +1,15 @@
 const projects = [
   {
+    title: "WEATHER",
+    githubLink: "https://github.com/Dilmurod1982/5oy10darsuyishi.git",
+    vercelLink: "https://weather-nu-rust.vercel.app/",
+  },
+  {
+    title: "RANDOM USER GENERATOR",
+    githubLink: "https://github.com/Dilmurod1982/5oy8darsuyishi.git",
+    vercelLink: "https://5oy9darsuyishi.vercel.app/",
+  },
+  {
     title: "Raqamni Top",
     githubLink: "https://github.com/Dilmurod1982/5oy6darsuyishi.git",
     vercelLink: "https://5oy6darsuyishi.vercel.app/",
