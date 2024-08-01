@@ -6,8 +6,8 @@ const projects = [
   },
   {
     title: "7 oy 3 dars",
-    githubLink: "https://github.com/Dilmurod1982/desserts.git",
-    vercelLink: "https://desserts-kohl.vercel.app/",
+    githubLink: "https://github.com/Dilmurod1982/7oy3darsUIsh.git",
+    vercelLink: "https://7oy3dars-u-ish.vercel.app/",
   },
   {
     title: "7 oy 2 dars",
