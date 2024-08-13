@@ -1,5 +1,10 @@
 const projects = [
   {
+    title: "7 oy 10 dars",
+    githubLink: "https://github.com/Dilmurod1982/7oy10dars.git",
+    vercelLink: "https://7oy10dars-swart.vercel.app/",
+  },
+  {
     title: "7 oy 7 dars",
     githubLink: "https://github.com/Dilmurod1982/7darsUyIshi.git",
     vercelLink: "https://7dars-uy-ishi-yx2y.vercel.app/",
